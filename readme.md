@@ -20,6 +20,5 @@ So, if you are in a folder with both these certificates, none of the parameters 
 ## Installing
 
 ```
-go get -u github.com/luanraithz/verify--pair
-
+go install github.com/luanraithz/verify-pair@latest
 ```
